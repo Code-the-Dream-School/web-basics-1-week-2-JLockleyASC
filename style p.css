@@ -1,0 +1,43 @@
+
+ h3 {
+  background-color: blue;
+  color: yellow;
+  margin: 17px;
+  padding: 20px;
+  textSize: 200;
+  float:right; ;
+ 
+}
+
+p {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+body{background-color: black; }
+
+
+p {
+  background-color: blue;
+  color: grey;
+  margin: 17px;
+  padding: 20px;
+  textSize:200;
+  float:left; ;
+  font-size: 40px;
+  font-family: 'Bangers';
+}
+
+pre {
+  background-color: blue;
+  color: black;
+  margin:20px;
+  padding: 30px;
+  textSize:1000;
+  font-size: 400;
+  float:center; 
+ font-family: 'Bangers';
+}
